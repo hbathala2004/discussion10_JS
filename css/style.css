@@ -1,0 +1,74 @@
+
+
+
+.bacon-photos {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+   
+}
+img{
+    width: 200px;px
+}*/
+nav{
+    margin-top: 100px;
+}
+
+
+.smoothie-photos {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+nav{
+    margin-top: 100px;
+}
+
+
+.pluto-photos {
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr;
+}
+nav{
+    margin-top: 100px;
+}
+
+.rome-photos {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+nav{
+    margin-top: 100px;
+}
+
+
+
+}
+
+.Zucchini-photos {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+nav{
+    margin-top: 100px;
+}
+
+
+
+a.skip {
+    position: absolute;
+    left: -1000px;
+}
+
+a.skip:focus {
+       left: 100px;
+ }
+
+
+/* body {
+    font-family: Arial;
+    line-height: 1.6;
+    padding: 40px;
+    line-height:1.5;
+    background-color:#f5f5dc;
+} */
+
+
